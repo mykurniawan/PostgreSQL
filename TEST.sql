@@ -1,6 +1,6 @@
 insert into tabel_barang (kode_barang,nama_barang,deskripsi_barang,harga_barang) values ('kb02','Thompson','SMG',3000000);
 insert into tabel_barang (kode_barang,nama_barang,deskripsi_barang,harga_barang) values ('kb03','M16','AR',4500000);
-
+insert into tabel_barang (kode_barang,nama_barang,deskripsi_barang,harga_barang) values ('kb03','M4','AR',4500000);
 -- update 
 update tabel_barang set nama_barang='M4' where kode_barang ='kb03';
 
